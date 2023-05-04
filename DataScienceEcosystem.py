@@ -16,6 +16,12 @@
 # 3. C
 # 4. C++ 
 
+#__Some of the commonly used libraries used by Data Scientists include:__
+1. Numpy
+2. Matplotlib
+3. Keras 
+4. Pytorch
+
 # |Data science Tools |   
 # |---|
 # |Tensor Flow|
